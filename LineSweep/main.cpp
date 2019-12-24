@@ -973,6 +973,8 @@ int main()
         }
         evq.erase(evq.begin());
         print_evq(evq);
+
+
     }
     print_intersections(result);
 
